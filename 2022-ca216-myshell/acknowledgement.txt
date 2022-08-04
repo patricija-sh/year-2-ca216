@@ -1,0 +1,5 @@
+Name: Patricija Shalkauskaite, Student ID: 20467952
+
+I have read and understood the DCU Academic Integrity and Plagiarism Policy, available at https://www.dcu.ie/system/files/2020-09/1_-_integrity_and_plagiarism_policy_ovpaa-v4.pdf. This is my own work. Any references are cited and acknowledged. This submission has not been previously submitted by me or any other person on this course or any other course.
+
+This applies to readme.md, myshell.c, myshell.h, utility.c and makefile.
